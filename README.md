@@ -12,3 +12,4 @@ _AnimeCiencia is a personal data analysis and machine learning project that pred
 <br>
 **Exploratory Data Analysis (EDA):**  _Perform EDA to understand the data's structure and uncover patterns._
 
+![desfb](https://github.com/Chandrikajoshi123/AnimeCiencia/assets/100508364/50b6ab4b-5fb8-4dc2-8f71-c5ff0c1e9a24)
