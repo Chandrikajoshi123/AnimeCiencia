@@ -1,7 +1,8 @@
 # AnimeCiencia
 
-<img alt='Anim' src="![lapi](https://github.com/Chandrikajoshi123/AnimeCiencia/assets/100508364/b07e245c-0727-4f35-a82c-2ec6f8d7f46f)">
 
+
+![Sf](https://github.com/Chandrikajoshi123/AnimeCiencia/assets/100508364/f3ffdc98-726f-4095-8fc0-8d1916aca791)
 
 ## Project Overview
 _AnimeCiencia is a personal data analysis and machine learning project that predicts outcomes and trends in the anime world. By leveraging both R and Python, I explore various datasets related to anime, including ratings, popularity, genres, and user reviews, to uncover insights and make predictions._
