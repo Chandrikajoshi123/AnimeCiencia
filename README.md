@@ -54,5 +54,5 @@ _I would like to thank the creators of the datasets and open-source community fo
 
 ## Thank You
 
-![arigato](https://github.com/Chandrikajoshi123/AnimeCiencia/assets/100508364/f333d38d-78de-407a-8fa6-42352cabf955)
+_Thank you for visiting my AnimeCincia repository! i appriciate your intrest in my project. I hope you finf it well if you have any feedback,or suggestion feel free to contribute your thoughts._
 
