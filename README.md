@@ -54,5 +54,5 @@ _I would like to thank the creators of the datasets and open-source community fo
 
 ## Thank You
 
-_Thank you for visiting my AnimeCincia repository! i appriciate your intrest in my project. I hope you finf it well if you have any feedback,or suggestion feel free to contribute your thoughts._
+_Thank you for visiting my AnimeCincia repository! i appriciate your intrest in my project. I hope you find it well if you have any feedback,or suggestion feel free to contribute your thoughts._
 
